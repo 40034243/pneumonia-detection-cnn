@@ -1,4 +1,4 @@
-# pneumonia-detection-cnn
+# Pneumonia Detection CNN
 This GitHub repository contains code for a convolutional neural network (CNN) model that performs binary classification on chest X-ray images. The purpose of this code is to train a model to classify X-ray images into two categories: normal and abnormal.
 
 The code uses the Keras library, which is a high-level neural networks API running on top of TensorFlow. It imports necessary modules and packages, including os, numpy, and Keras modules such as Sequential, Dense, Dropout, Flatten, Conv2D, MaxPooling2D, ImageDataGenerator, and Adam optimizer.
